@@ -1,0 +1,10 @@
+web.php een route gemaakt
+
+een igor.blade.php gemaakt
+
+php artisan make:migration create_todos_table --create=todos
+
+php artisan make:model Todo
+
+php artisan make:controller TodoController
+
